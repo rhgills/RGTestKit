@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RGTestKit"
-  s.version      = "0.0.0"
+  s.version      = "0.0.1"
   s.summary      = "Miscellaneous test helpers."
   s.homepage     = "https://github.com/rhgills/rgtestkit"
   s.license      = 'MIT'
