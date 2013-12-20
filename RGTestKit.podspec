@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.dependency 'RGKit', '~> 0.1.2'
+  s.dependency 'RHGKit', '~> 0.1.2'
   s.dependency 'OCHamcrest', '~> 2.0.0'
   s.dependency 'LRMocky', '~> 0.9.1x'
   s.dependency 'CocoaLumberjack', '~> 1.6.0'
